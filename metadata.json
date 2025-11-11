@@ -1,0 +1,7 @@
+{
+  "name": "Cal AI Clone",
+  "description": "A web-based clone of the Cal AI mobile app for calorie and nutrition tracking, powered by Google Gemini. Users can upload photos of their meals to get an AI-powered nutritional analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
